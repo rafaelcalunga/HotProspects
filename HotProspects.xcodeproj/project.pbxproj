@@ -13,6 +13,7 @@
 		6D1147D225A3F9E40027736B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D1147D125A3F9E40027736B /* Preview Assets.xcassets */; };
 		6D84AA3A25AA73C300FF5650 /* ProspectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D84AA3925AA73C300FF5650 /* ProspectsView.swift */; };
 		6D84AA3E25AA740300FF5650 /* MeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D84AA3D25AA740300FF5650 /* MeView.swift */; };
+		6D84AA4325AA77FC00FF5650 /* Prospect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D84AA4225AA77FC00FF5650 /* Prospect.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		6D1147ED25A578780027736B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6D84AA3925AA73C300FF5650 /* ProspectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProspectsView.swift; sourceTree = "<group>"; };
 		6D84AA3D25AA740300FF5650 /* MeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeView.swift; sourceTree = "<group>"; };
+		6D84AA4225AA77FC00FF5650 /* Prospect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prospect.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,9 +61,10 @@
 			isa = PBXGroup;
 			children = (
 				6D1147CA25A3F9E10027736B /* HotProspectsApp.swift */,
+				6D84AA4225AA77FC00FF5650 /* Prospect.swift */,
 				6D1147CC25A3F9E10027736B /* ContentView.swift */,
-				6D84AA3925AA73C300FF5650 /* ProspectsView.swift */,
 				6D84AA3D25AA740300FF5650 /* MeView.swift */,
+				6D84AA3925AA73C300FF5650 /* ProspectsView.swift */,
 				6D1147CE25A3F9E40027736B /* Assets.xcassets */,
 				6D1147D325A3F9E40027736B /* Info.plist */,
 				6D1147D025A3F9E40027736B /* Preview Content */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6D84AA3E25AA740300FF5650 /* MeView.swift in Sources */,
+				6D84AA4325AA77FC00FF5650 /* Prospect.swift in Sources */,
 				6D1147CD25A3F9E10027736B /* ContentView.swift in Sources */,
 				6D84AA3A25AA73C300FF5650 /* ProspectsView.swift in Sources */,
 				6D1147CB25A3F9E10027736B /* HotProspectsApp.swift in Sources */,
