@@ -8,6 +8,6 @@ I learned how to:
 
 - Read custom values from the environment with @EnvironmentObject
 - Create tabs with TabView
-- ...
+- Controll image interpolation in SwiftUI
 
 This app was made using the course **100 Days of SwiftUI** from [Hacking With Swift](https://www.hackingwithswift.com/100/swiftui/)
