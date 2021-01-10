@@ -10,5 +10,6 @@ I learned how to:
 - Create tabs with TabView
 - Share data across tabs using @EnvironmentObject
 - Controll image interpolation in SwiftUI
+- Dynamically filter a SwiftUI List
 
 This app was made using the course **100 Days of SwiftUI** from [Hacking With Swift](https://www.hackingwithswift.com/100/swiftui/)
