@@ -11,5 +11,6 @@ I learned how to:
 - Share data across tabs using @EnvironmentObject
 - Controll image interpolation in SwiftUI
 - Dynamically filter a SwiftUI List
+- Scan QR codes with SwiftUI
 
 This app was made using the course **100 Days of SwiftUI** from [Hacking With Swift](https://www.hackingwithswift.com/100/swiftui/)
